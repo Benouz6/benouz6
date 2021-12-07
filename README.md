@@ -1,4 +1,8 @@
-### Hi there 👋
+Hey I am Ben <br>
+From kitchen to code <br>
+🚀 Ready to lift off!🚀<br>
+Learned Ruby on rails, JavaScript, Html and CSS @Le wagon<br>
+🌱 Want to learn more and more
 
 <!--
 **Benouz6/benouz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
