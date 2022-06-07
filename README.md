@@ -2,7 +2,7 @@ Hey I am Ben <br>
 From kitchen to code <br>
 🚀 Ready to lift off!🚀<br>
 Learned Ruby on rails, JavaScript, Html and CSS @Le wagon<br>
-🌱 Want to learn more and more
+🌱 I’m currently learning PHP
 
 <!--
 **Benouz6/benouz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@ Learned Ruby on rails, JavaScript, Html and CSS @Le wagon<br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning PHP
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
