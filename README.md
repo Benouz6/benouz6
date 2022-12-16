@@ -2,7 +2,9 @@ Hey I am Ben <br>
 From kitchen to code <br>
 🚀 Ready to lift off!🚀<br>
 Learned Ruby on rails, JavaScript, Html and CSS @Le wagon<br>
-🌱 I’m currently learning PHP
+👯 Teacher, TA and Batch Manager @Le wagon<br>
+🌱 React<br>
+💬 <a href='https://www.ben.lebou.com' target='_blank'>My portfolio</a>
 
 <!--
 **Benouz6/benouz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
