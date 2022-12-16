@@ -4,7 +4,7 @@ From kitchen to code <br>
 Learned Ruby on rails, JavaScript, Html and CSS @Le wagon<br>
 👯 Teacher, TA and Batch Manager @Le wagon<br>
 🌱 React<br>
-💬 <a href='https://www.ben.lebou.com' target='_blank'>My portfolio</a>
+💬 <a href='https://www.benlebou.com' target='_blank'>My portfolio</a>
 
 <!--
 **Benouz6/benouz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
