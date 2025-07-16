@@ -1,9 +1,8 @@
-Hey I am Ben <br>
-From kitchen to code <br>
-🚀 Ready to lift off!🚀<br>
-Learned Ruby on rails, JavaScript, Html and CSS @Le wagon<br>
-👯 Teacher, TA and Batch Manager @Le wagon<br>
-🌱 React<br>
+👨‍💻 Full-stack dev — WordPress, React, TypeScript, PHP
+🤖 J’entraîne des bots IA à mieux répondre que moi
+🔌 Intégration CRM (Zoho) + automatisation sur mesure
+🛠️ ACF Pro, REST APIs, hooks tordus et scripts bien ficelés
+💡 Build fast, debug smart, ship clean
 💬 <a href='https://www.benlebou.com' target='_blank'>My portfolio</a>
 
 <!--
