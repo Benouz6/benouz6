@@ -1,8 +1,8 @@
-👨‍💻 Full-stack dev — WordPress, React, TypeScript, PHP
-🤖 J’entraîne des bots IA à mieux répondre que moi
-🔌 Intégration CRM (Zoho) + automatisation sur mesure
-🛠️ ACF Pro, REST APIs, hooks tordus et scripts bien ficelés
-💡 Build fast, debug smart, ship clean
+👨‍💻 Full-stack dev — WordPress, React, TypeScript, PHP </br>
+🤖 J’entraîne des bots IA à mieux répondre que moi</br>
+🔌 Intégration CRM (Zoho) + automatisation sur mesure</br>
+🛠️ ACF Pro, REST APIs, hooks tordus et scripts bien ficelés</br>
+💡 Build fast, debug smart, ship clean</br>
 💬 <a href='https://www.benlebou.com' target='_blank'>My portfolio</a>
 
 <!--
